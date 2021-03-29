@@ -1,2 +1,3 @@
-# learnwebscraping
-Learned about web scraping using Python's Beautiful Soup
+# Python Project for Data Science
+
+A part of IBM Data Science Professional Certificate's courses, dedicated to learning about web scraping and analyzing stock data.
